@@ -1,0 +1,12 @@
+{
+  "attributes" : [ {
+    "trait_type" : "Deulist",
+    "value" : "Human"
+  }, {
+    "trait_type" : "Color",
+    "value" : "Wind"
+  } ],
+  "description" : "not cryptokitties.",
+  "image" : "https://gateway.pinata.cloud/ipfs/QmcwK7rRBPuXPUgYEkxTsT6byfCAzrcuZmbPxSQhf4qS2r",
+  "name" : "Jett"
+}
